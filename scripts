@@ -1,0 +1,7 @@
+pip install mysql-connector
+pip install pandas
+pip install jupyter
+pip install xlrd
+
+
+# 'jupyter notebook' to launch notebook 
