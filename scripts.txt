@@ -2,6 +2,10 @@ pip install mysql-connector
 pip install pandas
 pip install jupyter
 pip install xlrd
+pip install geopy
+pip install numpy
+pip install opencv-python
+pip install folium
 
 
 # 'jupyter notebook' to launch notebook 
