@@ -7,5 +7,18 @@ pip install numpy
 pip install opencv-python
 pip install folium
 
+pip install flask
 
+
+# flaskWebPage
+pip install virtualenv
+
+# python -m venv virtual # virtual is the name of virtual env
+# go in flaskWebPage
+# .\virtual\Scripts\pip install flask # to install flask to virtual env
+# .\virtual\Scripts\python .\flaskBundle\script1.py # to run web app
+# .\virtual\Scripts\pip install gunicorn # for heroku deployment
+# .\virtual\Scripts\pip freeze # to get existing python libraries in virtual env 
+# .\virtual\Scripts\pip freeze > requirements.txt # so we can create dependency file
+ 
 # 'jupyter notebook' to launch notebook 
